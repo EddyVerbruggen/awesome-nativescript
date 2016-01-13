@@ -79,6 +79,7 @@ A curated list of awesome articles, plugins, and resources for NativeScript.
 * [nativescript-google-sdk](https://www.npmjs.com/package/nativescript-google-sdk) - instructions for adding Google SDKs to a NativeScript project
 * [nativescript-insomnia](https://www.npmjs.com/package/nativescript-insomnia) - prevents the screen from dimming (and eventually lock the device) while active
 * [nativescript-livesync](https://www.npmjs.com/package/nativescript-livesync) - LiveSync NativeScript module for Android current version of NativeScript
+* [nativescript-local-notifications](https://www.npmjs.com/package/nativescript-local-notifications) - schedule and show notifications while your app isn't running - without the need of a push server
 * [nativescript-mapbox](https://www.npmjs.com/package/nativescript-mapbox) - native maps, by Mapbox
 * [nativescript-maps](https://www.npmjs.com/package/nativescript-maps) - a NativeScript module for using native map APIs
 * [nativescript-observable-subscribe](https://www.npmjs.com/package/nativescript-observable-subscribe) - a NativeScript module to add subscribe functionality to observables
